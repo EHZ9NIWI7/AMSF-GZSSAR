@@ -1,6 +1,6 @@
 # AMSF-GZSSAR
 This is the official implementation of the paper:  [**"Multi-View Knowledge Guided Semantic Prototype Learning for Generalized Zero-Shot Action Recognition"**](https://ieeexplore.ieee.org/document/11194256). 
-(*IEEE Transactions on Multimedia*.)
+(*IEEE Transactions on Multimedia*)
 
 ![GZSSAR](/figure/gzssar.png)
 <!-- Generalized Zero-Shot Skeleton-Based Action Recognition (**GZSSAR**) -->
@@ -45,14 +45,12 @@ python main.py -m zsl
 
 ## Citation
 ```bibtex
-@ARTICLE{11194256,
+@ARTICLE{Li2025AMSF,
   author={Li, Ming-Zhe and Jia, Zhen and Zhang, Zhang and Li, Yaoning and Ma, Zhanyu and Wang, Liang},
   journal={IEEE Transactions on Multimedia}, 
   title={Multi-View Knowledge Guided Semantic Prototype Learning for Generalized Zero-Shot Action Recognition}, 
   year={2025},
   volume={27},
-  number={},
-  pages={9735-9748},
-  keywords={Semantics;Skeleton;Feature extraction;Prototypes;Training;Hands;Visualization;Annotations;Zero shot learning;Data mining;Skeleton-based action recognition;generalized zero-shot learning;action descriptions;semantic fusion},
-  doi={10.1109/TMM.2025.3618570}}
+  pages={9735-9748}
+}
 
