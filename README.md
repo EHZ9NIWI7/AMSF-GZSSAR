@@ -1,7 +1,7 @@
 # AMSF-GZSSAR
 This is the official implementation of the paper:  **"Multi-View Knowledge Guided Semantic Prototype Learning for Generalized Zero-Shot Action Recognition"**. 
 (*IEEE Transactions on Multimedia*.)
-<!-- 👉 [Paper Link](https://arxiv.org/abs/xxxx.xxxxx)  -->
+👉 [Paper Link](https://ieeexplore.ieee.org/document/11194256)
 
 ![GZSSAR](/figure/gzssar.png)
 <!-- Generalized Zero-Shot Skeleton-Based Action Recognition (**GZSSAR**) -->
