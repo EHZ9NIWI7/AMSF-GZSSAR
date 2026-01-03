@@ -45,8 +45,6 @@ python main.py -m zsl
 ```
 
 ## Citation
-If you find this repository useful in your research, please consider citing our paper:
-
 ```bibtex
 @ARTICLE{11194256,
   author={Li, Ming-Zhe and Jia, Zhen and Zhang, Zhang and Li, Yaoning and Ma, Zhanyu and Wang, Liang},
